@@ -1,0 +1,16 @@
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body{
+    background-color: rgb(213, 32, 39);
+}
+
+#links {
+    position: absolute;
+    text-align: center;
+
+}
